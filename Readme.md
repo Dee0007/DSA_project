@@ -26,7 +26,8 @@ pip install matplotlib
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/your-username//DSA_project.git
+   
    ```
 2. Navigate to the project folder:
    ```sh
